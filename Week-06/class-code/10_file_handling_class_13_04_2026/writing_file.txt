@@ -1,0 +1,10 @@
+We presented MambaDiff, the first integration of
+selective state space models with diffusion-based temporal action segmentation. 
+Our approach replaces windowed attentionWe presented MambaDiff, the first integration of
+selective state space models with diffusion-based temporal action segmentation. 
+Our approach replaces windowed attentionWe presented MambaDiff, the first integration of
+selective state space models with diffusion-based temporal action segmentation. 
+Our approach replaces windowed attentionWe presented MambaDiff, the first integration of
+selective state space models with diffusion-based temporal action segmentation. 
+Our approach replaces windowed attention
+

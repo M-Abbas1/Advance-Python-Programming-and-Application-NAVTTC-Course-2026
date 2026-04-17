@@ -1,0 +1,10 @@
+101,Ali Khan,20,Computer Science,3.5
+102,Sara Ahmed,21,Software Engineering,3.8
+103,Usman Ali,19,Information Technology,3.2
+104,Ayesha Malik,22,Computer Science,3.9
+105,Hassan Raza,20,Data Science,3.4
+106,Fatima Noor,21,Software Engineering,3.7
+107,Ahmed Bilal,23,Information Technology,2.9
+108,Zainab Tariq,20,Computer Science,3.6
+109,Imran Shah,22,Data Science,3.3
+110,Mehwish Khan,21,Software Engineering,3.85

@@ -1,0 +1,5 @@
+Class No,Name,Age,Department,City,Course1, grade1,Cours2, grade2, Course3, grade3STU101,Ali Khan,21,Computer Science,Lahore,Python,88,Data Structures,79,Database,85
+STU102,Sara Ahmed,22,Software Engineering,Islamabad,Python,91,Web Development,87,AI,90
+STU103,Usman Tariq,20,Information Technology,Faisalabad,Networking,82,Python,75,Cyber Security,80
+STU104,Hina Malik,23,Computer Science,Karachi,Machine Learning,89,Python,92,Statistics,84
+STU105,Bilal Hassan,21,Software Engineering,Multan,Java,76,Python,81,Operating Systems,78
