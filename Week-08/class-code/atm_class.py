@@ -38,4 +38,8 @@ class ATM:
 
 
 
-    
+
+atm = ATM(1, 'corvit', 10)
+
+print(atm.atm_id)
+print(atm._location)
